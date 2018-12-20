@@ -64,7 +64,7 @@ int main() {
         cout << "Ausnahme gefangen: " << e.what();
     }
 }
-/*
+/* Loesung des Programms
  *  t1 erhält Eimer
     t1 übergibt Eimer an t2
     t2 erhält Eimer

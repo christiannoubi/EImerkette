@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christiannoubi/Desktop/Forschung/CLionProjects/Eimerkette/main.cpp
+iostream
+-
+string
+-
+stdexcept
+-
+
